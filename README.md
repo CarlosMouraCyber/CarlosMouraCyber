@@ -57,6 +57,23 @@ status:
 
 </div>
 
+⚔️ Ferramentas
+
+## 🧰 Tools
+
+🐧 Linux
+
+🐍 Python
+
+🌐 Networking
+
+🔎 Nmap
+
+🕵️ Wireshark
+
+🌎 Burp Suite
+
+🐳 Docker
 
 ---
 
