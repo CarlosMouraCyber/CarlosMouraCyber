@@ -125,10 +125,10 @@ root@security-lab:~$
 ```
 📁 Cyber-Labs
 
-├── 🔎 Network Analysis
+├── 🔎 security dashboard 
 ├── 🐍 Python Scripts
 ├── 🔐 Security Notes
-└── 🧪 Future Research
+└── 🧪 cyberwatch
 ```
 
 ---
