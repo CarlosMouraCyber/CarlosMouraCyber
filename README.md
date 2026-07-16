@@ -57,8 +57,8 @@ status:
 
 </div>
 
-⚔️
-## 🧰 Tools
+
+## ⚔️ Tools
 
 🐧 Linux
 
