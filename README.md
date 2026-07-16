@@ -138,7 +138,9 @@ root@security-lab:~$
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=CarlosMouraCyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=38BDF8"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=CarlosMouraCyber&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMouraCyber&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
