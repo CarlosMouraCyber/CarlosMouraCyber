@@ -126,7 +126,7 @@ root@cyberlab:~$
 ```
 📁 Security Labs
 
-├── Network Analysis
+├── go-osint-emails 
 ├── Python Scripts
 ├── Linux Experiments
 └── Cybersecurity Notes
