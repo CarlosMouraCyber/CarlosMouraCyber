@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img width="500" src="[https://tenor.com/pt-BR/view/talking-ben-says-saying-no-outfit7-gif-24967985)"/>
+<img width="400" src="https://media1.tenor.com/m/yrttOircNjcAAAAd/talking-ben-says.gif"/>
 
 </div>
 
