@@ -1,54 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:0066ff&height=180&section=header&text=CarlosMouraCyber&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563EB&height=200&section=header&text=CarlosMouraCyber&fontSize=55&fontColor=FFFFFF&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Security+%26+Technology;Linux+Enthusiast;Building+Secure+Solutions"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Security+%26+Technology;Linux+Enthusiast;Learning+Every+Day"/>
 
 </div>
 
 
 <br>
 
+
 <div align="center">
 
 <img width="400" src="https://media1.tenor.com/m/yrttOircNjcAAAAd/talking-ben-says.gif"/>
 
+<img width="400" src="SEU_GIF_AQUI"/>
+
 </div>
 
-# 🛡️ CarlosMouraCyber
+
+<br>
+
+
+# 🔐 CarlosMouraCyber
+
+```bash
+┌──(CarlosMouraCyber㉿cyberlab)-[~]
+
+$ whoami
+
+Cybersecurity Student
+
+$ mission
+
+Learn
+Build
+Protect
+```
+
+---
+
+# 🛡️ About Me
 
 ```yaml
-profile:
-  role: Cybersecurity Student
-  focus:
-    - Information Security
-    - Linux
-    - Networking
-    - Security Research
+name: CarlosMouraCyber
 
-status:
+focus:
+  - Cybersecurity
+  - Linux
+  - Networking
+  - Security Research
+
+currently:
   learning: true
   building: true
 ```
 
 ---
 
-## 🌐 Security Dashboard
-
-```
-┌─────────────────────────────┐
-│     CYBER SECURITY LAB      │
-├─────────────────────────────┤
-│ 🟢 System      ONLINE       │
-│ 🔵 Network     MONITORING   │
-│ 🟢 Learning    ACTIVE       │
-│ 🔵 Research    RUNNING      │
-└─────────────────────────────┘
-```
-
----
-
-## ⚙️ Technologies
+# ⚙️ Security Stack
 
 
 <div align="center">
@@ -58,58 +68,71 @@ status:
 </div>
 
 
-## ⚔️ Tools
-
-🐧 Linux
-
-🐍 Python
-
-🌐 Networking
-
-🔎 Nmap
-
-🕵️ Wireshark
-
-🌎 Burp Suite
-
-🐳 Docker
-
----
-
-## 🔐 Security Interests
-
 ```text
-01  Network Security
+🔵 Linux
 
-02  Linux Administration
+🔵 Python
 
-03  Ethical Hacking
+🔵 Networking
 
-04  Automation
+🔵 Security Tools
 
-05  Cloud Security
+🔵 Automation
 ```
 
 ---
 
-## 🖥️ Terminal
+# 🌐 Cyber Terminal
 
 
 ```console
-root@cyberlab:~$ ./start_security.sh
+root@security-lab:~$ ./scan_system.sh
 
-[✓] Loading environment...
 
-[✓] Initializing tools...
+[✓] Loading tools...
 
-[✓] Security mode activated
+[✓] Checking environment...
 
-root@cyberlab:~$
+[✓] Security mode enabled
+
+
+root@security-lab:~$
 ```
 
 ---
 
-## 📊 GitHub Analytics
+# 📚 Currently Learning
+
+
+```
+████████░░ Linux
+
+███████░░░ Networking
+
+██████░░░░ Cybersecurity
+
+█████░░░░░ Web Security
+
+████░░░░░░ Cloud
+```
+
+---
+
+# 🚀 Projects
+
+
+```
+📁 Cyber-Labs
+
+├── 🔎 Network Analysis
+├── 🐍 Python Scripts
+├── 🔐 Security Notes
+└── 🧪 Future Research
+```
+
+---
+
+# 📊 GitHub Analytics
 
 
 <div align="center">
@@ -121,40 +144,42 @@ root@cyberlab:~$
 
 ---
 
-## 🚧 Projects
-
-```
-📁 Security Labs
-
-├── go-osint-emails 
-├── Python Scripts
-├── Linux Experiments
-└── Cybersecurity Notes
-```
-
----
-
-## 📡 Connection
+# 🔥 Activity
 
 
 <div align="center">
 
-<a href="https://github.com/CarlosMouraCyber">
-
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=38BDF8">
-
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=CarlosMouraCyber&color=38BDF8&style=for-the-badge">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosMouraCyber&theme=tokyonight&hide_border=true&background=020617"/>
 
 </div>
 
 
-<br>
+---
 
+# 🖥️ System Status
+
+
+```text
+STATUS:
+
+🟢 Learning
+
+🟢 Building
+
+🔵 Exploring
+
+🟢 Improving
+```
+
+
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:020617&height=100&section=footer"/>
+<img src="https://komarev.com/ghpvc/?username=CarlosMouraCyber&color=38BDF8&style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:020617&height=120&section=footer"/>
 
 </div>
