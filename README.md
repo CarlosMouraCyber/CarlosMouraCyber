@@ -14,7 +14,6 @@
 
 <img width="400" src="https://media1.tenor.com/m/yrttOircNjcAAAAd/talking-ben-says.gif"/>
 
-<img width="400" src="SEU_GIF_AQUI"/>
 
 </div>
 
