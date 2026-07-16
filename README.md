@@ -1,95 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:0066ff&height=220&section=header&text=CarlosMouraCyber&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:001aff&height=180&section=header&text=CarlosMouraCyber&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=00FF88&center=true&vCenter=true&width=800&lines=Cybersecurity+Researcher;Security+%26+Technology+Enthusiast;Linux+%7C+Networks+%7C+Cloud;Building+the+Future+of+Security"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00FF99&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Security+%26+Technology;Learning+Every+Day"/>
 
 </div>
 
 
 <br>
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-# 🧬 Identity
-
-```yaml
-name: CarlosMouraCyber
-
-role:
-  - Cybersecurity Student
-  - Security Research Enthusiast
-  - Technology Explorer
-
-focus:
-  - Information Security
-  - Ethical Hacking
-  - Network Defense
-  - Automation
-
-status:
-  learning: true
-  building: true
-  improving: always
-  ⚡ Cyber Profile
 <div align="center">
-SYSTEM	STATUS
-🧠 Learning	ACTIVE
-🔐 Security Research	ONLINE
-🐧 Linux Environment	RUNNING
-🌐 Network Analysis	ENABLED
-🤖 Automation	DEVELOPING
+
+<img width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3F2eWJ2Y3R5cGZ2d3F3dG9vN3V4bGJ5b3J2N3JqY3B6Y3ZlZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/g04lF7i6uB7e6gX8eZ/giphy.gif"/>
+
 </div>
-🛡️ Security Arsenal
-<div align="center"> <img src="https://skillicons.dev/icons?i=linux,python,bash,docker,git,github,vscode,cloudflare"/> </div>
-root@security-lab:~$ tools --list
 
-[+] Linux
-[+] Python
-[+] Bash
-[+] Git
-[+] Networking
-[+] OWASP
-[+] Security Testing
-[+] Cloud Security
-🌐 Knowledge Matrix
-Cybersecurity       ████████░░ 80%
 
-Networking          ███████░░░ 70%
+# 🔐 CarlosMouraCyber
 
-Linux               █████████░ 90%
+```bash
+> system.start()
 
-Programming         ██████░░░░ 60%
+[✓] Cybersecurity mode enabled
+[✓] Learning security
+[✓] Exploring technology
 
-Cloud               █████░░░░░ 50%
+> status: ONLINE
 
-🚀 Current Mission
-01  Improve cybersecurity skills
+🛡️ Focus
+<div align="center"> <img src="https://skillicons.dev/icons?i=linux,python,bash,git,github,docker,vscode"/> </div>
+🔹 Cybersecurity
+🔹 Linux
+🔹 Networks
+🔹 Ethical Hacking
+🔹 Automation
 
-02  Build security projects
+⚡ Security Terminal
 
-03  Understand modern threats
+┌──(CarlosMouraCyber㉿security)-[~]
 
-04  Create useful tools
+$ whoami
 
-05  Share knowledge
+Cybersecurity Student
 
-📡 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosMouraCyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMouraCyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF88"/> </div>
-🧪 Security Projects
-📁 Security-Labs
+$ mission
 
-├── 🔎 Network Analysis
-├── 🐍 Python Security Scripts
-├── 🛡️ Defensive Tools
-├── 📚 Cyber Notes
-└── 🚧 Future Research
-
-🐍 Contribution System
-<div align="center"> <img src="https://raw.githubusercontent.com/CarlosMouraCyber/CarlosMouraCyber/output/github-contribution-grid-snake-dark.svg"/> </div>
-🖥️ Terminal Interface
-🌌 Connect
-<div align="center"> <a href="https://github.com/CarlosMouraCyber"> <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00ff88"> </a> <img src="https://komarev.com/ghpvc/?username=CarlosMouraCyber&color=00ff88&style=for-the-badge"> </div> <br> <div align="center">
-🔐 "Think like an attacker. Build like a defender."
-</div> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066ff,100:00ff88&height=120&section=footer"/> ```
+Learn
+Build
+Protect
+Improve
