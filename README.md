@@ -9,10 +9,9 @@
 
 <br>
 
-
 <div align="center">
 
-<img width="500" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+<img width="450" src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif"/>
 
 </div>
 
