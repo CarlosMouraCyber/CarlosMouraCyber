@@ -1,227 +1,153 @@
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="150" alt="Tux, o pinguim do Linux">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=[SEU%20NOME]&fontSize=38&fontColor=ffffff&fontAlignY=38" alt="Banner do perfil">
 
-# `root@github:~$ whoami`
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="105" alt="Tux, mascote do Linux">
 
-## [Seu Nome]
+# Estudante de Engenharia da Computação
 
-### Estudante de Engenharia da Computação
-
-### Foco em Cybersecurity, Linux e Tecnologia
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=Cybersecurity+Student;Computer+Engineering+Student;Linux+Enthusiast;Security+Researcher;Learning+%7C+Building+%7C+Securing" alt="Texto animado">
+### Cybersecurity • Linux • Sistemas • Tecnologia
 
 </div>
 
 ---
 
-## `~/about_me`
+## Sobre mim
 
-```bash
-┌──[student@github]─[~]
-└─$ cat about_me.txt
+Sou estudante de **Engenharia da Computação**, com foco em **Cybersecurity** e interesse por sistemas operacionais, redes, Linux, segurança de aplicações e desenvolvimento de software.
 
-[+] Estudante de Engenharia da Computação
-[+] Foco principal em Cybersecurity
-[+] Entusiasta de Linux e tecnologia
-[+] Desenvolvedor de projetos próprios
-[+] Explorando sistemas, redes e segurança
-[+] Sempre aprendendo algo novo
-```
-
-Sou estudante de **Engenharia da Computação**, com foco em **Cybersecurity** e interesse por sistemas, redes, Linux e segurança da informação.
-
-Também desenvolvo projetos utilizando diferentes linguagens e tecnologias. Gosto de aprender na prática, entender como os sistemas funcionam e transformar conhecimento em soluções reais.
+Também desenvolvo projetos utilizando diferentes linguagens e tecnologias. Gosto de aprender na prática, compreender como os sistemas funcionam e transformar conhecimento em soluções funcionais.
 
 Meu objetivo é construir uma carreira sólida em **cibersegurança**, unindo conhecimentos de hardware, software, redes, programação e análise de sistemas.
 
-> `Learning how systems work is the first step to securing them.`
+---
 
-## `~/focus`
-
-```text
-[ CURRENT FOCUS ]
-
-→ Cybersecurity
-→ Linux
-→ Redes de computadores
-→ Segurança de aplicações
-→ OSINT
-→ Análise de vulnerabilidades
-→ Sistemas operacionais
-→ Programação
-→ Automação
-```
-
-## `~/tech_stack`
+## Áreas de interesse
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,python,javascript,nodejs,linux,bash,git,github,vscode,docker" alt="Tecnologias utilizadas">
+<img src="https://img.shields.io/badge/Cybersecurity-0f172a?style=for-the-badge&logo=hackthebox&logoColor=60a5fa" alt="Cybersecurity">
+<img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=facc15" alt="Linux">
+<img src="https://img.shields.io/badge/Redes-0f172a?style=for-the-badge&logo=cisco&logoColor=60a5fa" alt="Redes">
+<img src="https://img.shields.io/badge/OSINT-0f172a?style=for-the-badge&logo=google&logoColor=60a5fa" alt="OSINT">
+<img src="https://img.shields.io/badge/Backend-0f172a?style=for-the-badge&logo=serverless&logoColor=60a5fa" alt="Backend">
 
 </div>
 
-### Linguagens e ferramentas
+---
+
+## Tecnologias
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00ff41" alt="C#">
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41" alt="Python">
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41" alt="JavaScript">
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00ff41" alt="Node.js">
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00ff41" alt="Linux">
-<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00ff41" alt="Bash">
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41" alt="Git">
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00ff41" alt="Docker">
+<img src="https://skillicons.dev/icons?i=cs,python,javascript,nodejs,linux,bash,git,github,vscode,docker" alt="Tecnologias">
 
 </div>
 
-## `~/linux`
+| Categoria | Tecnologias |
+|---|---|
+| Linguagens | C#, Python e JavaScript |
+| Backend | Node.js e APIs REST |
+| Sistemas | Linux e Windows |
+| Ferramentas | Git, GitHub, Bash e VS Code |
+| Segurança | OSINT, análise de vulnerabilidades e segurança de aplicações |
+
+---
+
+## Projetos em destaque
 
 <div align="center">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="110" alt="Tux, mascote do Linux">
-
-</div>
-
-```bash
-$ sudo apt update
-$ sudo apt upgrade
-$ chmod +x cybersecurity.sh
-$ ./cybersecurity.sh
-
-[ OK ] Ambiente Linux inicializado
-[ OK ] Terminal pronto
-[ OK ] Ferramentas carregadas
-[ OK ] Estudos de cybersecurity iniciados
-[ OK ] Novos desafios encontrados
-```
-
-O Linux faz parte da minha rotina de estudos e desenvolvimento. Utilizo o sistema para praticar comandos de terminal, automação, programação, administração de sistemas e conceitos de segurança.
-
-## `~/projects`
-
-### CSharp POO Completo
-
-Guia em português para aprender Programação Orientada a Objetos com C#, desde os conceitos fundamentais até projetos práticos.
-
-<div align="left">
 
 <a href="https://github.com/lohjs-0/csharp-poo-completo">
-<img src="https://img.shields.io/badge/ACESSAR_PROJETO-00ff41?style=for-the-badge&logo=github&logoColor=000000" alt="Acessar projeto CSharp POO Completo">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lohjs-0&repo=csharp-poo-completo&theme=github_dark&hide_border=true" alt="CSharp POO Completo">
 </a>
-<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00ff41" alt="Projeto em C#">
-
-</div>
-
-### Cerberus OSINT
-
-Ferramenta para coleta, organização e análise de informações públicas relacionadas à exposição digital de um alvo.
-
-<div align="left">
 
 <a href="https://github.com/lohjs-0/cerberus-osint">
-<img src="https://img.shields.io/badge/ACESSAR_PROJETO-00ff41?style=for-the-badge&logo=github&logoColor=000000" alt="Acessar projeto Cerberus OSINT">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lohjs-0&repo=cerberus-osint&theme=github_dark&hide_border=true" alt="Cerberus OSINT">
 </a>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41" alt="Projeto em Python">
-
-</div>
-
-### Aegis
-
-Plataforma gamificada de treinamento em cibersegurança, com missões ofensivas e defensivas e recursos baseados em inteligência artificial.
-
-<div align="left">
 
 <a href="https://github.com/lohjs-0/aegis">
-<img src="https://img.shields.io/badge/ACESSAR_PROJETO-00ff41?style=for-the-badge&logo=github&logoColor=000000" alt="Acessar projeto Aegis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lohjs-0&repo=aegis&theme=github_dark&hide_border=true" alt="Aegis">
 </a>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41" alt="Projeto em JavaScript">
-
-</div>
-
-### Cerberus Security Scanner
-
-Scanner de vulnerabilidades desenvolvido para auxiliar na identificação de possíveis problemas de segurança em aplicações.
-
-<div align="left">
 
 <a href="https://github.com/lohjs-0/cerberus-security-scanner">
-<img src="https://img.shields.io/badge/ACESSAR_PROJETO-00ff41?style=for-the-badge&logo=github&logoColor=000000" alt="Acessar projeto Cerberus Security Scanner">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=lohjs-0&repo=cerberus-security-scanner&theme=github_dark&hide_border=true" alt="Cerberus Security Scanner">
 </a>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00ff41" alt="Projeto em Node.js">
 
 </div>
 
-## `~/mission`
+---
+
+## Atualmente estudando
 
 ```text
-+----------------------------------------------------------+
-| MISSION STATUS                                           |
-+----------------------------------------------------------+
-| [ACTIVE] Aprender cybersecurity                          |
-| [ACTIVE] Evoluir em Engenharia da Computação             |
-| [ACTIVE] Dominar Linux e redes                           |
-| [ACTIVE] Criar projetos práticos                         |
-| [ACTIVE] Desenvolver sistemas mais seguros               |
-| [ACTIVE] Compartilhar conhecimento                       |
-+----------------------------------------------------------+
+Cybersecurity
+Redes de computadores
+Linux e sistemas operacionais
+Segurança de aplicações
+Análise de vulnerabilidades
+OSINT e reconhecimento digital
+Programação e automação
+Arquitetura de software
 ```
 
-Meu objetivo é evoluir continuamente como estudante e profissional de tecnologia, desenvolvendo conhecimentos sólidos em **cibersegurança**, **sistemas**, **redes** e **programação**.
+---
 
-Busco criar soluções eficientes e seguras, sempre mantendo uma mentalidade de aprendizado contínuo.
+## Objetivo
 
-## `~/github_activity`
+Meu objetivo é evoluir continuamente como estudante e profissional de tecnologia, desenvolvendo uma base sólida em **cibersegurança**, **sistemas**, **redes** e **programação**.
 
-<div align="center">
+Busco criar soluções eficientes, compreender novos desafios e contribuir para um ambiente digital mais seguro.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=github_dark" alt="Resumo do perfil do GitHub">
+> “A segurança começa com o entendimento de como as coisas funcionam.”
 
-</div>
+---
 
-## `~/contact`
+## GitHub
 
 <div align="center">
 
 <a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41" alt="GitHub">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub">
 </a>
 
-<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41" alt="LinkedIn">
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=gmail&logoColor=00ff41" alt="E-mail">
+<a href="https://github.com/SEU_USUARIO">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas">
 </a>
 
 </div>
 
 ---
 
+## Contato
+
 <div align="center">
 
-```text
-> Connection encrypted.
-> Identity verified.
-> System secured.
-> Keep learning. Keep building.
-```
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub">
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00ff41&style=flat-square&label=PROFILE+ACCESS" alt="Visualizações do perfil">
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn">
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/Email-475569?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="E-mail">
+</a>
+
+</div>
+
+  
+
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=2563eb&style=flat-square&label=Visualizações+do+perfil" alt="Visualizações do perfil">
 
   
   
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="75" alt="Tux, pinguim do Linux">
-
-  
-  
-
-
-<strong>Engineering the future. Securing the present.</strong>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="65" alt="Tux, mascote do Linux">
 
 </div>
