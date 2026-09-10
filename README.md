@@ -1,46 +1,24 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:001B36,70:0066CC,100:00BFFF&height=210&section=header&text=CarlosMouraCyber&fontSize=46&fontColor=FFFFFF&fontAlignY=40&desc=CIBERSEGURANÇA%20%7C%20LINUX%20%7C%20TECNOLOGIA&descSize=16&descAlignY=63&descColor=8DD8FF&animation=fadeIn"/>
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=CarlosMouraCyber" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=%3E+Sistema+inicializado...;%3E+Acesso+autorizado.;%3E+Bem-vindo+ao+meu+espa%C3%A7o+digital.;%3E+Estudando+ciberseguran%C3%A7a.;%3E+Construindo.+Aprendendo.+Evoluindo." />
+### `cibersegurança • linux • código`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:003B66,100:00A8FF&height=2&section=header" width="80%"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/%E2%97%8F%20SISTEMA-ONLINE-00BFFF?style=for-the-badge&labelColor=050505&color=0066CC"/>
-<img src="https://img.shields.io/badge/%E2%97%88%20SEGURAN%C3%87A-ATIVA-FFFFFF?style=for-the-badge&labelColor=050505&color=0066CC"/>
-<img src="https://img.shields.io/badge/%E2%97%89%20LINUX-ATIVO-00BFFF?style=for-the-badge&labelColor=050505&color=0066CC"/>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,50:0066CC,100:001B36&height=4&section=header"/>
-
-</div>
+> **aprendendo a entender o que acontece por trás do sistema.**
 
 <br>
 
-# `01` · SOBRE MIM
-
-<div align="center">
-
-### `CURIOSIDADE → CONHECIMENTO → EXPERIÊNCIA`
-
-</div>
-
-Sou estudante de **Cibersegurança**, apaixonado por tecnologia e por entender como as coisas funcionam por trás da interface.
-
-Meu foco atualmente está em **Linux, redes, programação e segurança**, buscando transformar cada estudo em experiência prática através de projetos, laboratórios e experimentos.
-
-<div align="center">
-
-<br>
-
-<img src="https://img.shields.io/badge/CIBERSEGURAN%C3%87A-008CFF?style=flat-square&labelColor=050505"/>
-<img src="https://img.shields.io/badge/LINUX-008CFF?style=flat-square&labelColor=050505"/>
-<img src="https://img.shields.io/badge/REDES-008CFF?style=flat-square&labelColor=050505"/>
-<img src="https://img.shields.io/badge/PYTHON-008CFF?style=flat-square&labelColor=050505"/>
-<img src="https://img.shields.io/badge/TECNOLOGIA-008CFF?style=flat-square&labelColor=050505"/>
+`🔵 ONLINE`　 `🐧 LINUX`　 `🔐 SECURITY`　 `💻 CODE`
 
 </div>
 
@@ -48,92 +26,75 @@ Meu foco atualmente está em **Linux, redes, programação e segurança**, busca
 
 ---
 
-# `02` · LINUX
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="90"/>
-
-<br>
-
-### `🐧 Meu ambiente de exploração`
-
-<br>
-
-```text
-        ┌──────────────────────────────────────────┐
-        │              LINUX SYSTEM                │
-        ├──────────────────────────────────────────┤
-        │                                          │
-        │   TERMINAL       ██████████████████ 90% │
-        │   BASH           █████████████████░  85% │
-        │   SISTEMAS       ████████████████░░  80% │
-        │   AUTOMAÇÃO      ██████████████░░░░  70% │
-        │                                          │
-        │              ● SISTEMA ATIVO             │
-        │                                          │
-        └──────────────────────────────────────────┘
-```
-
-<sub>
-
-Explorando Linux, terminal, Bash, sistemas, automação e administração de ambientes.
-
-</sub>
+## `sobre mim`
 
 </div>
 
+Sou estudante de **Cibersegurança** e gosto de tecnologia pelo lado que normalmente não aparece na tela.
+
+Linux, redes, programação, sistemas e segurança são algumas das áreas que venho explorando enquanto construo meus próprios projetos e laboratórios.
+
+Não estou aqui para parecer um hacker.
+
+**Estou aqui para aprender como as coisas realmente funcionam.**
+
 <br>
-
----
-
-# `03` · TECNOLOGIAS
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode,html,css,js&theme=dark"/>
+`curiosidade > ferramenta`
 
-<br><br>
+</div>
+
+---
+
+<div align="center">
+
+## `o que me interessa`
+
+<br>
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="25%">
 
-**🐧 SISTEMAS**
+### 🔐
 
-Linux  
-Bash  
-Terminal  
+**SEGURANÇA**
 
-</td>
-
-<td align="center">
-
-**🔐 SEGURANÇA**
-
-Cibersegurança  
-Fundamentos  
-Laboratórios  
+Estudar sistemas, vulnerabilidades e proteção.
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-**💻 DESENVOLVIMENTO**
+### 🐧
 
-Python  
-JavaScript  
-HTML / CSS  
+**LINUX**
+
+Terminal, sistemas, Bash e ambientes Linux.
 
 </td>
 
-<td align="center">
+<td align="center" width="25%">
 
-**🌐 REDES**
+### 🌐
 
-TCP/IP  
-Protocolos  
-Infraestrutura  
+**REDES**
+
+Entender como máquinas conversam entre si.
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻
+
+**CÓDIGO**
+
+Python, automação e projetos próprios.
 
 </td>
 </tr>
@@ -141,280 +102,181 @@ Infraestrutura
 
 </div>
 
-<br>
-
 ---
-
-# `04` · EM EVOLUÇÃO
 
 <div align="center">
 
-```text
-╔════════════════════════════════════════════════════════╗
-║                                                        ║
-║  CIBERSEGURANÇA    ████████████████████░░   90%       ║
-║                                                        ║
-║  LINUX              █████████████████████░   95%       ║
-║                                                        ║
-║  REDES              █████████████████░░░░░   80%       ║
-║                                                        ║
-║  PYTHON             ████████████████░░░░░   75%       ║
-║                                                        ║
-║  DESENVOLVIMENTO    █████████████░░░░░░░░   65%       ║
-║                                                        ║
-╚════════════════════════════════════════════════════════╝
-```
+## `stack`
 
 <br>
 
-`APRENDER`　→　`PRATICAR`　→　`CONSTRUIR`　→　`EVOLUIR`
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LINUX-0A0A0A?style=flat-square&logo=linux&logoColor=00A8FF"/>
+<img src="https://img.shields.io/badge/BASH-0A0A0A?style=flat-square&logo=gnubash&logoColor=00A8FF"/>
+<img src="https://img.shields.io/badge/PYTHON-0A0A0A?style=flat-square&logo=python&logoColor=00A8FF"/>
+<img src="https://img.shields.io/badge/GIT-0A0A0A?style=flat-square&logo=git&logoColor=00A8FF"/>
+<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=flat-square&logo=github&logoColor=00A8FF"/>
 
 </div>
 
 ---
 
-# `05` · PROJETOS
-
 <div align="center">
 
-### 🔵 `LABORATÓRIO DE CIBERSEGURANÇA`
-
-</div>
-
-Estudos e experimentos práticos voltados para segurança, sistemas e ambientes controlados.
-
-`CIBERSEGURANÇA`　`LINUX`　`LABORATÓRIOS`
+## `🐧 linux`
 
 <br>
 
-<div align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="75"/>
 
-### 🔵 `LINUX LAB`
+<br><br>
 
-</div>
+> **Meu playground favorito.**
 
-Exploração de sistemas Linux, terminal, Bash, configurações e automação.
-
-`LINUX`　`BASH`　`SISTEMAS`
+Uso Linux como ambiente para estudar, testar ideias, automatizar tarefas e entender melhor os sistemas que estou aprendendo a proteger.
 
 <br>
 
-<div align="center">
-
-### 🔵 `NETWORK LAB`
+`terminal`　`bash`　`automação`　`sistemas`
 
 </div>
-
-Estudos sobre redes, protocolos, comunicação e infraestrutura.
-
-`REDES`　`TCP/IP`　`INFRAESTRUTURA`
-
-<br>
-
-<div align="center">
-
-### 🔵 `PROJETOS PESSOAIS`
-
-</div>
-
-Ideias transformadas em código para colocar conhecimentos em prática.
-
-`PYTHON`　`GIT`　`DESENVOLVIMENTO`
 
 ---
 
-# `06` · MEU COMPANHEIRO 🐾
+## `projetos`
+
+### 🔵 Cyber Lab
+
+Laboratórios e estudos práticos relacionados a **cibersegurança**, sistemas e ambientes controlados.
+
+`security` `linux` `lab`
+
+---
+
+### 🔵 Scripts & Automação
+
+Pequenas ferramentas e scripts desenvolvidos para resolver problemas, automatizar tarefas e aprender programação.
+
+`python` `bash` `automation`
+
+---
+
+### 🔵 Network Studies
+
+Experimentos e estudos para entender melhor **redes, protocolos e comunicação entre sistemas**.
+
+`networking` `tcp/ip` `infrastructure`
+
+---
 
 <div align="center">
+
+### `mais coisas sendo construídas...`
+
+`████████████████████░░░░`
+
+</div>
+
+---
+
+<div align="center">
+
+## `meu copiloto`
 
 <br>
 
 <!--
-╔══════════════════════════════════════════╗
-║                                          ║
-║       COLOQUE SEU GATO OU CACHORRO       ║
-║                AQUI                      ║
-║                                          ║
-║  Quando adicionar sua imagem ao repo:   ║
-║                                          ║
-║  <img src="./assets/pet.png" width="300">║
-║                                          ║
-╚══════════════════════════════════════════╝
+COLOQUE AQUI A FOTO DO SEU GATO OU CACHORRO
+
+Exemplo:
+
+<img src="./assets/pet.png" width="240"/>
+
 -->
 
-<img src="https://placehold.co/300x220/050505/00BFFF?text=SEU+PET+AQUI" width="300"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/PET.EXE-EXECUTANDO-00BFFF?style=for-the-badge&labelColor=050505"/>
+<img src="https://placehold.co/240x180/080808/00A8FF?text=SEU+PET" width="240"/>
 
 <br>
-
-<sub>Supervisionando o código desde o início. 🐾</sub>
-
-</div>
-
-<br>
-
----
-
-# `07` · TERMINAL
-
-```console
-┌──[carlos@cyberlab]─[~]
-└─$ whoami
-
-CarlosMouraCyber
-
-┌──[carlos@cyberlab]─[~]
-└─$ uname -o
-
-GNU/Linux
-
-┌──[carlos@cyberlab]─[~]
-└─$ cat objetivo.txt
-
-Aprender tecnologia.
-Entender sistemas.
-Construir projetos.
-Desenvolver habilidades.
-
-┌──[carlos@cyberlab]─[~]
-└─$ ./iniciar.sh
-
-[■■■■■■■■■■■■■■■■■■■■] 100%
-
-[✓] Linux................ ONLINE
-[✓] Redes................ ONLINE
-[✓] Python............... ONLINE
-[✓] Segurança............ ATIVA
-[✓] Aprendizado.......... CONTÍNUO
-
-┌──[carlos@cyberlab]─[~]
-└─$ echo "Sistema pronto."
-
-Sistema pronto.
-```
-
----
-
-# `08` · FILOSOFIA
-
-<div align="center">
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Entender+antes+de+usar.;Aprender+antes+de+ensinar.;Construir+para+evoluir." />
-
-<br><br>
-
-```text
-              ┌───────────────┐
-              │    APRENDER   │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │  EXPERIMENTAR │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │   CONSTRUIR   │
-              └───────┬───────┘
-                      ↓
-              ┌───────────────┐
-              │    EVOLUIR    │
-              └───────────────┘
-```
-
-### `Tecnologia não é apenas aquilo que usamos.`
-### `É aquilo que escolhemos entender.`
-
-</div>
-
----
-
-# `09` · ESTATÍSTICAS
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CarlosMouraCyber&show_icons=true&hide_border=true&bg_color=050505&title_color=00BFFF&text_color=E6F7FF&icon_color=008CFF&ring_color=00BFFF&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMouraCyber&layout=compact&hide_border=true&bg_color=050505&title_color=00BFFF&text_color=E6F7FF&langs_count=6"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=CarlosMouraCyber&theme=dark&hide_border=true&background=050505&stroke=00345C&ring=00BFFF&fire=008CFF&currStreakLabel=00BFFF&sideLabels=E6F7FF&currStreakNum=FFFFFF&sideNums=E6F7FF&dates=6B8299"/>
-
-</div>
-
-<br>
-
----
-
-# `10` · REGISTRO
-
-```text
-╭──────────────────────────────────────────────────────────╮
-│                                                          │
-│  [ 00:01 ]  Inicializando ambiente................ OK    │
-│  [ 00:02 ]  Carregando Linux...................... OK    │
-│  [ 00:03 ]  Verificando módulos................... OK    │
-│  [ 00:04 ]  Iniciando estudos..................... OK    │
-│  [ 00:05 ]  Carregando conhecimento..................   │
-│                                                          │
-│  ─────────────────────────────────────────────────────   │
-│                                                          │
-│  STATUS                                                  │
-│                                                          │
-│  ● SISTEMA       ONLINE                                  │
-│  ● LINUX         ATIVO                                   │
-│  ● SEGURANÇA     ATIVA                                  │
-│  ● PROJETOS      EM DESENVOLVIMENTO                     │
-│  ● APRENDIZADO   CONTÍNUO                               │
-│                                                          │
-╰──────────────────────────────────────────────────────────╯
-```
-
----
-
-# `11` · CONTATO
-
-<div align="center">
-
-<a href="https://github.com/CarlosMouraCyber">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000&color=0066CC"/>
-</a>
-
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00BFFF&labelColor=000000&color=0066CC"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=00BFFF&labelColor=000000&color=0066CC"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,40:0066CC,100:001B36&height=3&section=footer"/>
-
-<br><br>
 
 <sub>
 
-`CONEXÃO ESTABELECIDA`　•　`CANAL SEGURO`　•　`● ONLINE`
+ele não entende de código, mas julga meus commits.
 
 </sub>
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3200&pause=1100&color=00BFFF&center=true&vCenter=true&width=600&lines=%3E+Continue+aprendendo.;%3E+Continue+construindo.;%3E+Continue+explorando." />
+## `github`
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=CarlosMouraCyber&show_icons=true&hide_border=true&bg_color=080808&title_color=00A8FF&text_color=D6EFFF&icon_color=00A8FF&ring_color=00A8FF&include_all_commits=true&count_private=true"/>
+
+&nbsp;
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMouraCyber&layout=compact&hide_border=true&bg_color=080808&title_color=00A8FF&text_color=D6EFFF&langs_count=6"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+## `agora`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3000&pause=1200&color=008CFF&center=true&vCenter=true&width=500&lines=estudando+ciberseguran%C3%A7a...;explorando+linux...;construindo+projetos...;aprendendo+mais+um+pouco." />
+
+<br>
+
+`cibersegurança`　`linux`　`redes`　`python`
+
+</div>
+
+---
+
+<div align="center">
+
+<br>
+
+## `contato`
+
+<br>
+
+<a href="https://github.com/CarlosMouraCyber">
+<img src="https://img.shields.io/badge/GITHUB-080808?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LINKEDIN-080808?style=for-the-badge&logo=linkedin&logoColor=00A8FF"/>
+</a>
+
+<a href="mailto:SEU_EMAIL">
+<img src="https://img.shields.io/badge/EMAIL-080808?style=for-the-badge&logo=gmail&logoColor=00A8FF"/>
+</a>
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,35:0066CC,70:001B36,100:000000&height=130&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:003B66,100:00A8FF&height=2&section=footer" width="60%"/>
+
+<br><br>
+
+<sub>
+
+`feito com curiosidade, linux e algumas horas de sono perdidas.`
+
+</sub>
+
+<br><br>
+
+🐧
 
 </div>
