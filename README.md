@@ -1,72 +1,148 @@
-# Olá, eu sou [Seu Nome] 👋
+<div align="center">
 
-> **Seize the day or die regretting the time you lost.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563eb,100:06b6d4&height=200&section=header&text=Olá,%20eu%20sou%20[Seu%20Nome]&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 
-Sou desenvolvedor de software e entusiasta de **cibersegurança**, com interesse em criar ferramentas, estudar novas tecnologias e transformar ideias em projetos funcionais. Gosto de trabalhar com desenvolvimento backend, automação, análise de segurança e construção de soluções que combinam tecnologia e criatividade.
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="150" alt="Pinguim Tux do Linux" />
+
+# Desenvolvedor | Cibersegurança | Linux
+
+</div>
+
+---
 
 ## Sobre mim
 
-- Desenvolvedor focado em **C#**, **JavaScript** e **Python**.
-- Interessado em segurança ofensiva, defesa cibernética, OSINT e análise de vulnerabilidades.
-- Aprendendo continuamente por meio de projetos práticos e desafios técnicos.
-- Gosto de transformar conceitos complexos em ferramentas úteis e experiências de aprendizado.
-- Atualmente, estou aprimorando meus conhecimentos em arquitetura de software, APIs e segurança de aplicações.
+Olá! Sou **[Seu Nome]**, desenvolvedor apaixonado por tecnologia, programação, Linux e cibersegurança.
 
-## Tecnologias e ferramentas
+Gosto de criar projetos práticos, explorar novas ferramentas e entender como os sistemas funcionam. Atualmente, estou aprimorando meus conhecimentos em desenvolvimento backend, segurança da informação, automação e criação de APIs.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+> Código, Linux e segurança: sempre aprendendo, sempre evoluindo.
+
+## Tecnologias que utilizo
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cs,python,javascript,nodejs,linux,bash,git,github,vscode,docker" />
+
 </div>
+
+| Área | Tecnologias |
+|---|---|
+| Linguagens | C#, Python e JavaScript |
+| Backend | Node.js e APIs REST |
+| Sistemas | Linux e Windows |
+| Ferramentas | Git, GitHub, Bash e VS Code |
+| Segurança | OSINT, análise de vulnerabilidades e segurança de aplicações |
+
+## Por que Linux?
+
+<div align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="110" alt="Tux, o pinguim do Linux" />
+
+</div>
+
+O Linux faz parte da minha rotina de estudos e desenvolvimento. Gosto da liberdade, da flexibilidade e do controle que o sistema oferece.
+
+Também utilizo o Linux para praticar comandos de terminal, automação, administração de sistemas, desenvolvimento e conceitos de cibersegurança.
+
+## O que estou estudando
+
+- Desenvolvimento de aplicações backend;
+- Criação e integração de APIs;
+- Arquitetura de software;
+- Cibersegurança;
+- OSINT e reconhecimento digital;
+- Análise de vulnerabilidades;
+- Automação com Python e Bash;
+- Linux e administração de sistemas;
+- Boas práticas de programação.
 
 ## Projetos em destaque
 
-| Projeto | Descrição | Tecnologia |
-|---|---|---|
-| [CSharp POO Completo](https://github.com/lohjs-0/csharp-poo-completo ) | Guia gratuito e em português para aprender Programação Orientada a Objetos com C#, desde os fundamentos até projetos práticos. | C# |
-| [Cerberus OSINT](https://github.com/lohjs-0/cerberus-osint ) | Ferramenta de linha de comando para coleta, correlação e análise de informações sobre a exposição digital de um alvo. | Python |
-| [Aegis](https://github.com/lohjs-0/aegis ) | Plataforma gamificada de treinamento em cibersegurança, com ataques APT em tempo real, missões ofensivas e defensivas e tutor com IA. | JavaScript / Node.js |
-| [Cerberus Security Scanner](https://github.com/lohjs-0/cerberus-security-scanner ) | API leve para identificação de vulnerabilidades em aplicações. | Node.js |
-| [Kraak](https://github.com/lohjs-0/Kraak ) | Projeto voltado à exploração de conceitos de desenvolvimento e segurança. | C# |
+<div align="center">
+
+<a href="https://github.com/lohjs-0/csharp-poo-completo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lohjs-0&repo=csharp-poo-completo&theme=tokyonight" alt="Projeto CSharp POO Completo" />
+</a>
+
+<a href="https://github.com/lohjs-0/cerberus-osint">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lohjs-0&repo=cerberus-osint&theme=tokyonight" alt="Projeto Cerberus OSINT" />
+</a>
+
+<a href="https://github.com/lohjs-0/aegis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lohjs-0&repo=aegis&theme=tokyonight" alt="Projeto Aegis" />
+</a>
+
+<a href="https://github.com/lohjs-0/cerberus-security-scanner">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lohjs-0&repo=cerberus-security-scanner&theme=tokyonight" alt="Projeto Cerberus Security Scanner" />
+</a>
+
+</div>
 
 ## Estatísticas do GitHub
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais utilizadas" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais utilizadas" />
+
 </div>
 
-## Conecte-se comigo
+## Minhas contribuições
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/SEU_USUARIO" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://SEU_SITE.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio" />
-  </a>
-</p>
+<div align="center">
 
-## Objetivo
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" alt="Sequência de contribuições no GitHub" />
 
-Meu objetivo é evoluir como desenvolvedor, contribuir para projetos relevantes e criar soluções que unam **engenharia de software**, **segurança da informação** e **aprendizado prático**.
+</div>
 
-> Sempre há algo novo para aprender, uma vulnerabilidade para entender e uma solução melhor para construir.
+## Objetivo profissional
+
+Meu objetivo é evoluir continuamente como desenvolvedor e profissional de cibersegurança, criando soluções eficientes, seguras e bem estruturadas.
+
+Busco transformar conhecimento em projetos reais e desenvolver habilidades que possam contribuir para a criação de tecnologias melhores e mais seguras.
+
+## Entre em contato
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:SEU_EMAIL">
+  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=flat-square&label=Visualizações+do+perfil" alt="Visualizações do perfil" />
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=2563eb&style=flat-square&label=Visualizações+do+perfil" alt="Visualizações do perfil" />
+
+  
+  
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="80" alt="Pinguim Tux" />
+
+  
+
+
+<strong>"O conhecimento se constrói na prática."</strong>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:111827&height=120&section=footer" />
+
 </div>
