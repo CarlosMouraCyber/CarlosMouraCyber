@@ -1,64 +1,102 @@
 <div align="center">
 
-# CarlosMouraCyber
+# `CARLOS MOURA`
 
-### `CYBERSECURITY • TECHNOLOGY • LINUX • PROGRAMMING`
+### `SEGURANÇA • TECNOLOGIA • CÓDIGO`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=650&lines=%3E+Welcome+to+my+digital+space.;%3E+Cybersecurity+student.;%3E+Learning+something+new+every+day.;%3E+Building.+Learning.+Exploring." />
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:061A40,100:00A8FF&height=3&section=header"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=008CFF&center=true&vCenter=true&width=650&lines=%3E+Inicializando+sistema...;%3E+Acesso+autorizado.;%3E+Bem-vindo+ao+meu+espa%C3%A7o+digital.;%3E+Aprendendo.+Construindo.+Explorando." />
 
 <br>
 
-`● ONLINE` &nbsp;&nbsp; `◉ SECURE` &nbsp;&nbsp; `◈ CYBER LAB`
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00152B,100:008CFF&height=2&section=header"/>
+
+<br>
+
+`[ ACESSO AUTORIZADO ]` &nbsp;&nbsp; `● ONLINE` &nbsp;&nbsp; `[ MODO SEGURO ]`
 
 </div>
 
----
-
-## 👋 `ABOUT ME`
-
-I'm a **Cybersecurity student** passionate about technology, systems and understanding how things work behind the scenes.
-
-Currently focused on **cybersecurity, Linux, networking and programming**, while building projects and constantly exploring new technologies.
-
-<div align="center">
+<br>
 
 ```text
-╭──────────────────────────────────────────────╮
-│                                              │
-│   🔐 Cybersecurity                           │
-│   🐧 Linux                                   │
-│   🌐 Networking                              │
-│   💻 Programming                             │
-│   🧠 Continuous Learning                    │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
+                         ┌─────────────────────────────┐
+                         │       TERMINAL ONLINE       │
+                         └─────────────────────────────┘
 
-</div>
+                 ██████╗ ███████╗ ██████╗
+                ██╔════╝ ██╔════╝██╔═══██╗
+                ██║      █████╗  ██║   ██║
+                ██║      ██╔══╝  ██║   ██║
+                ╚██████╗ ███████╗╚██████╔╝
+                 ╚═════╝ ╚══════╝ ╚═════╝
+
+                 SISTEMA DE APRENDIZADO
+                      ██████████
+                      █ ONLINE █
+                      ██████████
+```
 
 ---
 
-## 🐾 `MY LITTLE COMPANION`
+## `> QUEM SOU EU`
+
+```bash
+┌──[carlos@cyberlab]─[~]
+└─$ whoami
+
+Estudante de Cibersegurança
+
+┌──[carlos@cyberlab]─[~]
+└─$ cat sobre_mim.txt
+
+Sou apaixonado por tecnologia e segurança.
+
+Gosto de entender como sistemas funcionam,
+explorar novas tecnologias e transformar
+conhecimento em projetos.
+
+Atualmente estou aprofundando meus estudos em:
+
+→ Cibersegurança
+→ Linux
+→ Redes
+→ Programação
+→ Sistemas
+```
+
+---
 
 <div align="center">
 
-<!-- COLOQUE SEU GATO OU CACHORRO AQUI -->
+### `◈ O MEU ESPAÇO DIGITAL`
 
-<img src="https://placehold.co/300x220/050505/00A8FF?text=YOUR+PET+HERE" width="300"/>
+```text
+              ┌──────────────────────────────┐
+              │                              │
+              │          🐈‍⬛  /  🐕           │
+              │                              │
+              │      SEU PET PODE FICAR      │
+              │          AQUI ↓              │
+              │                              │
+              └──────────────────────────────┘
+```
 
-<br>
+<!--
+COLOQUE SEU GATO OU CACHORRO AQUI
 
-`[ companion.exe is running ]`
+Exemplo:
+
+<img src="./assets/pet.png" width="280"/>
+
+-->
+
+`pet.exe` `● executando`
 
 </div>
 
 ---
 
-## ⚡ `TECH STACK`
+## `> HABILIDADES`
 
 <div align="center">
 
@@ -67,231 +105,213 @@ Currently focused on **cybersecurity, Linux, networking and programming**, while
 <br><br>
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                  TECHNOLOGY STACK                    │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  LINUX          ██████████████████░░   90%          │
-│  BASH           ████████████████░░░░   80%          │
-│  PYTHON         ███████████████░░░░░   75%          │
-│  GIT            ████████████████░░░░   80%          │
-│  NETWORKING     ██████████████░░░░░░   70%          │
-│  CYBERSECURITY  ███████████████░░░░░   75%          │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  LINUX             ████████████████████░   90%         │
+│  BASH              █████████████████░░░░   85%         │
+│  PYTHON            ███████████████░░░░░   75%         │
+│  GIT               █████████████████░░░░   85%         │
+│  REDES             ██████████████░░░░░░   70%         │
+│  CIBERSEGURANÇA    ███████████████░░░░░   75%         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 </div>
 
 ---
 
-## 🧠 `CURRENTLY LEARNING`
+## `> EM APRENDIZADO`
 
 ```text
-┌──────────────────────────────────────────────────────┐
-│                                                      │
-│  Cybersecurity    █████████████████░░░   85%         │
-│  Linux            ████████████████░░░░   80%         │
-│  Networking       ███████████████░░░░░   75%         │
-│  Python           ██████████████░░░░░░   70%         │
-│  Web Development  ████████████░░░░░░░░   60%         │
-│                                                      │
-└──────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  [01] CIBERSEGURANÇA                                    │
+│       ████████████████████████████░░░░  80%              │
+│                                                          │
+│  [02] LINUX                                              │
+│       █████████████████████████████░░░  85%              │
+│                                                          │
+│  [03] REDES                                              │
+│       ████████████████████████░░░░░░░  70%              │
+│                                                          │
+│  [04] PYTHON                                             │
+│       █████████████████████░░░░░░░░░  65%              │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 ```
 
-> `Always learning. Always experimenting. Always improving.`
+> `Conhecimento não é um destino. É um processo.`
 
 ---
 
-## 🖥️ `TERMINAL`
+## `> PROJETOS`
 
-```bash
-┌──[CarlosMouraCyber@cyberlab]─[~]
-└─$ whoami
-
-CarlosMouraCyber
-
-┌──[CarlosMouraCyber@cyberlab]─[~]
-└─$ cat interests.txt
-
-Cybersecurity
-Linux
-Networking
-Programming
-Technology
-
-┌──[CarlosMouraCyber@cyberlab]─[~]
-└─$ echo "What am I doing?"
-
-Learning, building and exploring.
-
-┌──[CarlosMouraCyber@cyberlab]─[~]
-└─$ systemctl status learning
-
-● learning.service
-   Active: active (running)
-   Status: ONLINE
+```text
+╭──────────────────────────────────────────────────────────╮
+│                                                          │
+│  01  CYBER LAB                                           │
+│      Estudos, experimentos e projetos de segurança.     │
+│                                                          │
+│      STATUS ................................ ● ATIVO     │
+│                                                          │
+│  02  LINUX LAB                                           │
+│      Exploração e aprendizado de ambientes Linux.       │
+│                                                          │
+│      STATUS ................................ ● ATIVO     │
+│                                                          │
+│  03  NETWORK LAB                                         │
+│      Estudos relacionados a redes e infraestrutura.      │
+│                                                          │
+│      STATUS ................................ ◉ ESTUDO    │
+│                                                          │
+│  04  PROJETOS PESSOAIS                                   │
+│      Ideias transformadas em código.                    │
+│                                                          │
+│      STATUS ................................ ● ATIVO     │
+│                                                          │
+╰──────────────────────────────────────────────────────────╯
 ```
 
 ---
 
-## 🚀 `PROJECTS`
+## `> TERMINAL`
+
+```console
+┌──[carlos@cyberlab]─[~/sistema]
+└─$ neofetch
+
+                 .--.                 carlos@cyberlab
+                |o_o |                ----------------
+                |:_/ |                Sistema: Linux
+               //   \ \               Núcleo: CyberLab
+              (|     | )              Terminal: bash
+             /'\_   _/`\              Estado: ONLINE
+             \___)=(___/              Segurança: ATIVA
+
+
+┌──[carlos@cyberlab]─[~/sistema]
+└─$ ./iniciar_aprendizado.sh
+
+[✓] Carregando conhecimento...
+[✓] Inicializando ambiente...
+[✓] Verificando sistemas...
+[✓] Abrindo terminal...
+
+████████████████████████████████████████ 100%
+
+[✓] Sistema pronto.
+```
+
+---
+
+## `> FILOSOFIA`
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════════╗
-║                    PROJECT STATUS                    ║
-╠══════════════════════════════════════════════════════╣
-║                                                      ║
-║  🔐 Cybersecurity Lab .............. ● ONLINE        ║
-║  🐧 Linux Lab ..................... ● ONLINE        ║
-║  🌐 Networking .................... ◉ LEARNING      ║
-║  💻 Personal Projects ............. ● ACTIVE        ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│       ENTENDER  →  EXPERIMENTAR  →  CONSTRUIR     │
+│                                                    │
+│                    ↓                               │
+│                                                    │
+│                   APRENDER                         │
+│                                                    │
+└────────────────────────────────────────────────────┘
 ```
+
+### `Não quero apenas usar tecnologia.`
+
+### `Quero entender como ela funciona.`
 
 </div>
 
-### 🔐 Cybersecurity Lab
-
-Security studies, experiments and cybersecurity projects.
-
-### 🐧 Linux Lab
-
-Experiments, configurations and learning with Linux environments.
-
-### 🌐 Networking
-
-Networking studies, protocols and infrastructure experiments.
-
-### 💻 Personal Projects
-
-Projects created to practice, experiment and learn.
-
 ---
 
-## 🔐 `SYSTEM STATUS`
+## `> ESTATÍSTICAS`
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────────────╮
-│                  SYSTEM STATUS                       │
-├──────────────────────────────────────────────────────┤
-│                                                      │
-│  NETWORK       ████████████████████  ONLINE         │
-│  SECURITY      ███████████████████░  ACTIVE         │
-│  LEARNING      ████████████████████  ACTIVE         │
-│  PROJECTS      █████████████████░░░  ACTIVE         │
-│                                                      │
-│              ● ALL SYSTEMS OPERATIONAL              │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=CarlosMouraCyber&show_icons=true&hide_border=true&bg_color=050505&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&ring_color=008CFF&cache_seconds=1800"/>
 
-</div>
-
----
-
-## 📊 `GITHUB ANALYTICS`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CarlosMouraCyber&show_icons=true&hide_border=true&bg_color=050505&title_color=00A8FF&text_color=FFFFFF&icon_color=00A8FF&ring_color=00A8FF&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMouraCyber&layout=compact&hide_border=true&bg_color=050505&title_color=00A8FF&text_color=FFFFFF&langs_count=8"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMouraCyber&layout=compact&hide_border=true&bg_color=050505&title_color=008CFF&text_color=FFFFFF&langs_count=8"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=CarlosMouraCyber&theme=dark&hide_border=true&background=050505&stroke=061A40&ring=00A8FF&fire=00A8FF&currStreakLabel=00A8FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
+<img src="https://streak-stats.demolab.com?user=CarlosMouraCyber&theme=dark&hide_border=true&background=050505&stroke=00152B&ring=008CFF&fire=008CFF&currStreakLabel=008CFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"/>
 
 </div>
 
 ---
 
-## 🌐 `CONTRIBUTION ACTIVITY`
+## `> ATIVIDADE`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosMouraCyber&bg_color=050505&color=FFFFFF&line=00A8FF&point=FFFFFF&area=true&area_color=061A40&hide_border=true&custom_title=Contribution%20Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosMouraCyber&bg_color=050505&color=FFFFFF&line=008CFF&point=FFFFFF&area=true&area_color=00152B&hide_border=true&custom_title=ATIVIDADE%20NO%20GITHUB"/>
 
 </div>
 
 ---
 
-## 📡 `ACTIVITY LOG`
+## `> REGISTRO DO SISTEMA`
 
 ```bash
-┌──[CarlosMouraCyber@cyberlab]─[~/logs]
-└─$ tail -f activity.log
+┌──[carlos@cyberlab]─[~/logs]
+└─$ tail -f sistema.log
 
-[INFO] Studying cybersecurity...
-[INFO] Exploring Linux...
-[INFO] Learning networking...
-[INFO] Building projects...
-[INFO] Improving programming skills...
-[INFO] Exploring new technologies...
+[INFO] Iniciando sessão...
+[INFO] Sistema carregado.
+[INFO] Ambiente Linux detectado.
+[INFO] Módulo de segurança carregado.
+[INFO] Conexão estabelecida.
+[INFO] Aprendizado contínuo ativado.
 
-[ OK ] Cybersecurity module loaded
-[ OK ] Linux environment loaded
-[ OK ] Network module loaded
-[ OK ] Learning system active
+[OK] Tudo funcionando normalmente.
 
-[STATUS] ██████████████████████████████████ ONLINE
+────────────────────────────────────────────────
+
+[00:01] estudando...
+[00:02] explorando...
+[00:03] criando...
+[00:04] aprendendo...
+
+────────────────────────────────────────────────
+
+STATUS: ● ONLINE
 ```
 
 ---
 
-## 🧬 `DIGITAL PROFILE`
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║             C A R L O S M O U R A C Y B E R          ║
-║                                                      ║
-║       CYBERSECURITY  //  TECHNOLOGY                 ║
-║                                                      ║
-║       BUILD  •  LEARN  •  EXPLORE  •  SECURE        ║
-║                                                      ║
-║                  STATUS :: ONLINE                    ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 📫 `CONNECT`
+## `> CONTATO`
 
 <div align="center">
 
 <a href="https://github.com/CarlosMouraCyber">
-<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=00A8FF&labelColor=000000"/>
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=008CFF"/>
 </a>
 
 <a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=00A8FF&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LINKEDIN-050505?style=for-the-badge&logo=linkedin&logoColor=008CFF"/>
 </a>
 
 <a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=00A8FF&labelColor=000000"/>
+<img src="https://img.shields.io/badge/EMAIL-050505?style=for-the-badge&logo=gmail&logoColor=008CFF"/>
 </a>
 
 <br><br>
 
 ```text
-┌──────────────────────────────────────────────┐
+╭──────────────────────────────────────────────╮
 │                                              │
-│  CONNECTION STATUS :: ● ESTABLISHED          │
-│  ENCRYPTION       :: ENABLED                │
-│  CHANNEL          :: SECURE                  │
+│       CONEXÃO ESTABELECIDA                  │
 │                                              │
-└──────────────────────────────────────────────┘
+│       CANAL .............. SEGURO            │
+│       STATUS ............. ONLINE            │
+│       ACESSO ............. AUTORIZADO        │
+│                                              │
+╰──────────────────────────────────────────────╯
 ```
 
 </div>
@@ -300,18 +320,12 @@ Projects created to practice, experiment and learn.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=%3E+Keep+learning.;%3E+Keep+building.;%3E+Keep+exploring.;%3E+System+online." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=008CFF&center=true&vCenter=true&width=550&lines=%3E+Sistema+online.;%3E+Continue+explorando.;%3E+Continue+aprendendo.;%3E+Continue+construindo." />
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A8FF,50:061A40,100:050505&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:008CFF,50:00152B,100:000000&height=110&section=footer"/>
 
-### `● SYSTEM ONLINE`
-
-`██████████████████████████████████████████████████`
-
-### `Keep learning. Keep building. Keep exploring.`
-
-`[ EOF ]`
+`● SISTEMA ONLINE` &nbsp;&nbsp; `//` &nbsp;&nbsp; `FIM DA SESSÃO`
 
 </div>
