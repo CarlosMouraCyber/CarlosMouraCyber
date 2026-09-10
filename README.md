@@ -1,24 +1,41 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563eb,100:06b6d4&height=200&section=header&text=Olá,%20eu%20sou%20[Seu%20Nome]&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:00ff41&height=220&section=header&text=ACCESS%20GRANTED&fontSize=40&fontColor=00ff41&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="150" alt="Pinguim Tux do Linux" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="130" alt="Tux, pinguim do Linux" />
 
-# Desenvolvedor | Cibersegurança | Linux
+# `root@github:~$ whoami`
+
+### `[Seu Nome]`
+
+**Backend Developer • Cybersecurity Enthusiast • Linux User**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Initializing+secure+connection...;Exploring+code+and+systems...;Linux+is+my+playground.;Learning+%7C+Building+%7C+Securing" alt="Animação de texto hacker" />
 
 </div>
 
 ---
 
-## Sobre mim
+## `~/about_me`
 
-Olá! Sou **[Seu Nome]**, desenvolvedor apaixonado por tecnologia, programação, Linux e cibersegurança.
+```bash
+┌──[root@github]─[~]
+└─$ cat about_me.txt
 
-Gosto de criar projetos práticos, explorar novas ferramentas e entender como os sistemas funcionam. Atualmente, estou aprimorando meus conhecimentos em desenvolvimento backend, segurança da informação, automação e criação de APIs.
+[+] Desenvolvedor apaixonado por código, Linux e cibersegurança
+[+] Criando ferramentas, APIs e projetos experimentais
+[+] Explorando sistemas, redes e segurança da informação
+[+] Sempre aprendendo algo novo no terminal
+[+] Objetivo: transformar conhecimento em soluções reais
+```
 
-> Código, Linux e segurança: sempre aprendendo, sempre evoluindo.
+Olá! Sou **[Seu Nome]**, desenvolvedor interessado em tecnologia, programação e cibersegurança.
 
-## Tecnologias que utilizo
+Gosto de entender como os sistemas funcionam, explorar novas ferramentas e transformar ideias em projetos práticos. Meu ambiente favorito é o terminal, onde estudo desenvolvimento backend, automação, Linux, OSINT e segurança de aplicações.
+
+> `The quieter you become, the more you are able to hear.`
+
+## `~/stack`
 
 <div align="center">
 
@@ -26,98 +43,106 @@ Gosto de criar projetos práticos, explorar novas ferramentas e entender como os
 
 </div>
 
-| Área | Tecnologias |
-|---|---|
-| Linguagens | C#, Python e JavaScript |
-| Backend | Node.js e APIs REST |
-| Sistemas | Linux e Windows |
-| Ferramentas | Git, GitHub, Bash e VS Code |
-| Segurança | OSINT, análise de vulnerabilidades e segurança de aplicações |
+```text
+[ LANGUAGES ]     C# • Python • JavaScript
+[ BACKEND    ]     Node.js • APIs REST
+[ SYSTEMS    ]     Linux • Windows • Bash
+[ SECURITY   ]     OSINT • Reconhecimento • Vulnerabilidades
+[ TOOLS      ]     Git • GitHub • VS Code • Docker
+```
 
-## Por que Linux?
+## `~/linux`
 
 <div align="center">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="110" alt="Tux, o pinguim do Linux" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="100" alt="Tux, pinguim do Linux" />
 
 </div>
 
-O Linux faz parte da minha rotina de estudos e desenvolvimento. Gosto da liberdade, da flexibilidade e do controle que o sistema oferece.
+```bash
+$ sudo apt update
+$ sudo apt upgrade
+$ chmod +x learning.sh
+$ ./learning.sh
 
-Também utilizo o Linux para praticar comandos de terminal, automação, administração de sistemas, desenvolvimento e conceitos de cibersegurança.
+[ OK ] Terminal inicializado
+[ OK ] Ambiente Linux configurado
+[ OK ] Conhecimento sendo carregado
+[ OK ] Novos desafios encontrados
+```
 
-## O que estou estudando
+O Linux faz parte da minha rotina de estudos e desenvolvimento. Utilizo o sistema para praticar comandos de terminal, automação, programação, administração de sistemas e conceitos de cibersegurança.
 
-- Desenvolvimento de aplicações backend;
-- Criação e integração de APIs;
-- Arquitetura de software;
-- Cibersegurança;
-- OSINT e reconhecimento digital;
-- Análise de vulnerabilidades;
-- Automação com Python e Bash;
-- Linux e administração de sistemas;
-- Boas práticas de programação.
-
-## Projetos em destaque
+## `~/projects`
 
 <div align="center">
 
 <a href="https://github.com/lohjs-0/csharp-poo-completo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lohjs-0&repo=csharp-poo-completo&theme=tokyonight" alt="Projeto CSharp POO Completo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lohjs-0&repo=csharp-poo-completo&theme=chartreuse-dark&border_color=00ff41" alt="CSharp POO Completo" />
 </a>
 
 <a href="https://github.com/lohjs-0/cerberus-osint">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lohjs-0&repo=cerberus-osint&theme=tokyonight" alt="Projeto Cerberus OSINT" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lohjs-0&repo=cerberus-osint&theme=chartreuse-dark&border_color=00ff41" alt="Cerberus OSINT" />
 </a>
 
 <a href="https://github.com/lohjs-0/aegis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lohjs-0&repo=aegis&theme=tokyonight" alt="Projeto Aegis" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lohjs-0&repo=aegis&theme=chartreuse-dark&border_color=00ff41" alt="Aegis" />
 </a>
 
 <a href="https://github.com/lohjs-0/cerberus-security-scanner">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lohjs-0&repo=cerberus-security-scanner&theme=tokyonight" alt="Projeto Cerberus Security Scanner" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lohjs-0&repo=cerberus-security-scanner&theme=chartreuse-dark&border_color=00ff41" alt="Cerberus Security Scanner" />
 </a>
 
 </div>
 
-## Estatísticas do GitHub
+## `~/github_stats`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&border_color=00ff41&title_color=00ff41&icon_color=00ff41&text_color=ffffff" alt="Estatísticas do GitHub" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais utilizadas" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=chartreuse-dark&border_color=00ff41&title_color=00ff41&text_color=ffffff" alt="Linguagens mais utilizadas" />
 
 </div>
 
-## Minhas contribuições
+## `~/activity_log`
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" alt="Sequência de contribuições no GitHub" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&background=000000&border=00ff41&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="Sequência de contribuições" />
 
 </div>
 
-## Objetivo profissional
+## `~/mission`
 
-Meu objetivo é evoluir continuamente como desenvolvedor e profissional de cibersegurança, criando soluções eficientes, seguras e bem estruturadas.
+```text
++----------------------------------------------------------+
+| MISSION STATUS                                           |
++----------------------------------------------------------+
+| [ACTIVE] Evoluir como desenvolvedor                     |
+| [ACTIVE] Criar sistemas mais seguros                    |
+| [ACTIVE] Aprender novas tecnologias                     |
+| [ACTIVE] Compartilhar conhecimento                      |
+| [ACTIVE] Nunca parar de explorar                        |
++----------------------------------------------------------+
+```
 
-Busco transformar conhecimento em projetos reais e desenvolver habilidades que possam contribuir para a criação de tecnologias melhores e mais seguras.
+Meu objetivo é desenvolver soluções eficientes, seguras e bem estruturadas, unindo **programação**, **Linux** e **segurança da informação**.
 
-## Entre em contato
+## `~/contact`
 
 <div align="center">
 
 <a href="https://github.com/SEU_USUARIO">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000&color=003b00" alt="GitHub" />
 </a>
 
 <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41&labelColor=000000&color=003b00" alt="LinkedIn" />
 </a>
 
 <a href="mailto:SEU_EMAIL">
-  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41&labelColor=000000&color=003b00" alt="E-mail" />
 </a>
 
 </div>
@@ -126,23 +151,18 @@ Busco transformar conhecimento em projetos reais e desenvolver habilidades que p
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=2563eb&style=flat-square&label=Visualizações+do+perfil" alt="Visualizações do perfil" />
+```text
+> Connection encrypted.
+> System secured.
+> Keep learning. Keep building.
+```
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=00ff41&style=flat-square&label=PROFILE+ACCESS" alt="Visualizações do perfil" />
 
   
   
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="80" alt="Pinguim Tux" />
-
-  
-
-
-<strong>"O conhecimento se constrói na prática."</strong>
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:111827&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:001a00,100:000000&height=120&section=footer" />
 
 </div>
