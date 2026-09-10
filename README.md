@@ -1,282 +1,72 @@
-<div align="center">
+# Olá, eu sou [Seu Nome] 👋
 
-<br>
+> **Seize the day or die regretting the time you lost.**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3200&pause=1000&color=00A8FF&center=true&vCenter=true&width=700&lines=CarlosMouraCyber" />
+Sou desenvolvedor de software e entusiasta de **cibersegurança**, com interesse em criar ferramentas, estudar novas tecnologias e transformar ideias em projetos funcionais. Gosto de trabalhar com desenvolvimento backend, automação, análise de segurança e construção de soluções que combinam tecnologia e criatividade.
 
-<br>
+## Sobre mim
 
-### `cibersegurança • linux • código`
+- Desenvolvedor focado em **C#**, **JavaScript** e **Python**.
+- Interessado em segurança ofensiva, defesa cibernética, OSINT e análise de vulnerabilidades.
+- Aprendendo continuamente por meio de projetos práticos e desafios técnicos.
+- Gosto de transformar conceitos complexos em ferramentas úteis e experiências de aprendizado.
+- Atualmente, estou aprimorando meus conhecimentos em arquitetura de software, APIs e segurança de aplicações.
 
-<br>
+## Tecnologias e ferramentas
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:003B66,100:00A8FF&height=2&section=header" width="80%"/>
-
-<br><br>
-
-> **aprendendo a entender o que acontece por trás do sistema.**
-
-<br>
-
-`🔵 ONLINE`　 `🐧 LINUX`　 `🔐 SECURITY`　 `💻 CODE`
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
 
-<br>
+## Projetos em destaque
 
----
+| Projeto | Descrição | Tecnologia |
+|---|---|---|
+| [CSharp POO Completo](https://github.com/lohjs-0/csharp-poo-completo ) | Guia gratuito e em português para aprender Programação Orientada a Objetos com C#, desde os fundamentos até projetos práticos. | C# |
+| [Cerberus OSINT](https://github.com/lohjs-0/cerberus-osint ) | Ferramenta de linha de comando para coleta, correlação e análise de informações sobre a exposição digital de um alvo. | Python |
+| [Aegis](https://github.com/lohjs-0/aegis ) | Plataforma gamificada de treinamento em cibersegurança, com ataques APT em tempo real, missões ofensivas e defensivas e tutor com IA. | JavaScript / Node.js |
+| [Cerberus Security Scanner](https://github.com/lohjs-0/cerberus-security-scanner ) | API leve para identificação de vulnerabilidades em aplicações. | Node.js |
+| [Kraak](https://github.com/lohjs-0/Kraak ) | Projeto voltado à exploração de conceitos de desenvolvimento e segurança. | C# |
+
+## Estatísticas do GitHub
 
 <div align="center">
-
-## `sobre mim`
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais utilizadas" />
 </div>
 
-Sou estudante de **Cibersegurança** e gosto de tecnologia pelo lado que normalmente não aparece na tela.
+## Conecte-se comigo
 
-Linux, redes, programação, sistemas e segurança são algumas das áreas que venho explorando enquanto construo meus próprios projetos e laboratórios.
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SEU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://SEU_SITE.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-111827?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio" />
+  </a>
+</p>
 
-Não estou aqui para parecer um hacker.
+## Objetivo
 
-**Estou aqui para aprender como as coisas realmente funcionam.**
+Meu objetivo é evoluir como desenvolvedor, contribuir para projetos relevantes e criar soluções que unam **engenharia de software**, **segurança da informação** e **aprendizado prático**.
 
-<br>
-
-<div align="center">
-
-`curiosidade > ferramenta`
-
-</div>
-
----
-
-<div align="center">
-
-## `o que me interessa`
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🔐
-
-**SEGURANÇA**
-
-Estudar sistemas, vulnerabilidades e proteção.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🐧
-
-**LINUX**
-
-Terminal, sistemas, Bash e ambientes Linux.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🌐
-
-**REDES**
-
-Entender como máquinas conversam entre si.
-
-</td>
-
-<td align="center" width="25%">
-
-### 💻
-
-**CÓDIGO**
-
-Python, automação e projetos próprios.
-
-</td>
-</tr>
-</table>
-
-</div>
+> Sempre há algo novo para aprender, uma vulnerabilidade para entender e uma solução melhor para construir.
 
 ---
 
 <div align="center">
-
-## `stack`
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,vscode&theme=dark"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LINUX-0A0A0A?style=flat-square&logo=linux&logoColor=00A8FF"/>
-<img src="https://img.shields.io/badge/BASH-0A0A0A?style=flat-square&logo=gnubash&logoColor=00A8FF"/>
-<img src="https://img.shields.io/badge/PYTHON-0A0A0A?style=flat-square&logo=python&logoColor=00A8FF"/>
-<img src="https://img.shields.io/badge/GIT-0A0A0A?style=flat-square&logo=git&logoColor=00A8FF"/>
-<img src="https://img.shields.io/badge/GITHUB-0A0A0A?style=flat-square&logo=github&logoColor=00A8FF"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `🐧 linux`
-
-<br>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="75"/>
-
-<br><br>
-
-> **Meu playground favorito.**
-
-Uso Linux como ambiente para estudar, testar ideias, automatizar tarefas e entender melhor os sistemas que estou aprendendo a proteger.
-
-<br>
-
-`terminal`　`bash`　`automação`　`sistemas`
-
-</div>
-
----
-
-## `projetos`
-
-### 🔵 Cyber Lab
-
-Laboratórios e estudos práticos relacionados a **cibersegurança**, sistemas e ambientes controlados.
-
-`security` `linux` `lab`
-
----
-
-### 🔵 Scripts & Automação
-
-Pequenas ferramentas e scripts desenvolvidos para resolver problemas, automatizar tarefas e aprender programação.
-
-`python` `bash` `automation`
-
----
-
-### 🔵 Network Studies
-
-Experimentos e estudos para entender melhor **redes, protocolos e comunicação entre sistemas**.
-
-`networking` `tcp/ip` `infrastructure`
-
----
-
-<div align="center">
-
-### `mais coisas sendo construídas...`
-
-`████████████████████░░░░`
-
-</div>
-
----
-
-<div align="center">
-
-## `meu copiloto`
-
-<br>
-
-<!--
-COLOQUE AQUI A FOTO DO SEU GATO OU CACHORRO
-
-Exemplo:
-
-<img src="./assets/pet.png" width="240"/>
-
--->
-
-<img src="https://placehold.co/240x180/080808/00A8FF?text=SEU+PET" width="240"/>
-
-<br>
-
-<sub>
-
-ele não entende de código, mas julga meus commits.
-
-</sub>
-
-</div>
-
----
-
-<div align="center">
-
-## `github`
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=CarlosMouraCyber&show_icons=true&hide_border=true&bg_color=080808&title_color=00A8FF&text_color=D6EFFF&icon_color=00A8FF&ring_color=00A8FF&include_all_commits=true&count_private=true"/>
-
-&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosMouraCyber&layout=compact&hide_border=true&bg_color=080808&title_color=00A8FF&text_color=D6EFFF&langs_count=6"/>
-
-</div>
-
----
-
-<div align="center">
-
-<br>
-
-## `agora`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&duration=3000&pause=1200&color=008CFF&center=true&vCenter=true&width=500&lines=estudando+ciberseguran%C3%A7a...;explorando+linux...;construindo+projetos...;aprendendo+mais+um+pouco." />
-
-<br>
-
-`cibersegurança`　`linux`　`redes`　`python`
-
-</div>
-
----
-
-<div align="center">
-
-<br>
-
-## `contato`
-
-<br>
-
-<a href="https://github.com/CarlosMouraCyber">
-<img src="https://img.shields.io/badge/GITHUB-080808?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
-
-<a href="SEU_LINKEDIN">
-<img src="https://img.shields.io/badge/LINKEDIN-080808?style=for-the-badge&logo=linkedin&logoColor=00A8FF"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/EMAIL-080808?style=for-the-badge&logo=gmail&logoColor=00A8FF"/>
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:003B66,100:00A8FF&height=2&section=footer" width="60%"/>
-
-<br><br>
-
-<sub>
-
-`feito com curiosidade, linux e algumas horas de sono perdidas.`
-
-</sub>
-
-<br><br>
-
-🐧
-
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blueviolet&style=flat-square&label=Visualizações+do+perfil" alt="Visualizações do perfil" />
 </div>
