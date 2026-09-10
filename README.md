@@ -252,13 +252,28 @@ Evoluir.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CarlosMouraCyber&bg_color=050505&color=FFFFFF&line=008CFF&point=FFFFFF&area=true&area_color=071426&hide_border=true&custom_title=ATIVIDADE%20NO%20GITHUB&radius=8" width="95%"/>
+### `CONTRIBUIÇÕES`
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=CarlosMouraCyber&show_icons=true&hide_border=true&bg_color=050505&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&include_all_commits=true&count_private=true" width="500"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=CarlosMouraCyber&show_icons=true&hide_border=true&bg_color=050505&title_color=008CFF&text_color=FFFFFF&icon_color=008CFF&include_all_commits=true&count_private=true" width="48%"/>
-
-</div>
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│          REGISTRO DE ATIVIDADE              │
+│                                              │
+│     Código ................. ATIVO           │
+│     Estudos ................ ATIVO           │
+│     Projetos ............... ATIVO           │
+│     Linux .................. ATIVO           │
+│     Cibersegurança ......... ATIVO           │
+│                                              │
+│          ● APRENDIZADO CONTÍNUO             │
+│                                              │
+╰──────────────────────────────────────────────╯
 
 ---
 
