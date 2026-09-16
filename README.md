@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text="Carlos Moura"&fontSize=38&fontColor=ffffff&fontAlignY=38" alt="Banner do perfil">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text= Carlos Moura &fontSize=38&fontColor=ffffff&fontAlignY=38" alt="Banner do perfil">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="105" alt="Tux, mascote do Linux">
 
