@@ -19,30 +19,6 @@
 > Foco: Análise de Vulnerabilidades, Redes e Defesa Cibernética
 > Missão: Compreender as brechas para construir sistemas impenetráveis.
 > Filosofia: "Se você conhece o inimigo e a si mesmo, não precisa temer o resultado de cem batalhas."
----
-
-## 📂 // SUMÁRIO DE TÓPICOS
-- [⚡ 01. System Overview](#-01-system_overview)
-- [🛠️ 02. Stack Tecnológica](#️-02-stack_tecnologica)
-- [💼 03. Experiência & Projetos](#-03-experiencia--projetos)
-- [📜 04. Certificações & Cursos](#-04-certificacoes--cursos)
-- [🚩 05. Labs & CTFs](#-05-labs--ctfs)
-- [📚 06. Estudos & Leituras](#-06-estudos--leituras)
-- [🏆 07. Conquistas & Destaques](#-07-conquistas--destaques)
-- [📊 08. Métricas](#-08-metricas)
-- [🔒 09. Contato](#-09-contato)
-
----
-
-## ⚡ // 01. SYSTEM_OVERVIEW
-
-```bash
-┌──(guest㉿matrix)-[~]
-└─$ cat about_me.txt
-> Identidade: Estudante de TI & Entusiasta de Cibersegurança
-> Foco: Redes, Engenharia Reversa, Pentest & Análise de Vulnerabilidades
-> Missão: Mapear superfícies de ataque para blindar infraestruturas críticas.
-> Filosofia: "Aprenda como as coisas quebram para entender como protegê-las."
 
 ```
 🛠️ // 02. STACK_TECNOLOGICA & ECOSSISTEMA
