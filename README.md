@@ -90,17 +90,16 @@ Foco da semana: [Tópico de TI/Cybersec]
 
 📊 // 08. MÉTRICAS
 ```bash
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO-AQUI&theme=radical&hide_border=true" />
-</div>
 
 
 ```
 🔒 // 09. CONTATO
 
 ```bash
+┌──(guest㉿matrix)-[~/contacts]
+└─$ ls -l
+> 🔗 LinkedIn: linkedin.com/in/SEU-LINKEDIN
+> 💬 Discord: @seu_usuario
+> 📧 Email: carlosmoura2289@gmail.com
+```
