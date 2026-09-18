@@ -25,5 +25,6 @@
 ┌──(guest㉿matrix)-[~]
 └─$ cat about_me.txt
 > Identidade: Estudante de TI & Entusiasta de Cibersegurança
-> Foco: Redes, Infraestrutura, Pentest & Defesa Cibernética
-> Missão: Compreender falhas para blindar sistemas e redes.
+> Foco: Redes, Engenharia Reversa, Pentest & Análise de Vulnerabilidades
+> Missão: Mapear superfícies de ataque para blindar infraestruturas críticas.
+> Filosofia: "Aprenda como as coisas quebram para entender como protegê-las."
