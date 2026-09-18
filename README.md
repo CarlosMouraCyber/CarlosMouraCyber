@@ -1,5 +1,6 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,70:172554,100:2563eb&height=220&section=header&text=Carlos%20Moura&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%7C%20Linux%20%7C%20Systems%20%7C%20Technology&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Carlos Moura"> <br> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="90" alt="Tux Linux">
 Carlos Moura
+  
 Estudante de Engenharia da Computação
 
 Cybersecurity • Linux • Sistemas • Tecnologia
