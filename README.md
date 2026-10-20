@@ -11,7 +11,7 @@
 <td width="34%" valign="top">
 <img
   width="100%"
-  src="src="./levi.png.png""
+  src="src="./levi.png.png"
   alt="Levi Ackerman"
 />
 </td>
