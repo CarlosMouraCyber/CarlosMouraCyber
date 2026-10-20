@@ -1,4 +1,3 @@
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=090B09&height=190&section=header&text=ACKERMAN&fontSize=60&fontColor=F07825&fontAlignY=42&desc=CYBERSECURITY%20%2F%2F%20COMPUTER%20ENGINEERING&descAlignY=70&descSize=16&animation=fadeIn" />
 
@@ -9,19 +8,16 @@
 
 <table>
 <tr>
-<td width="34%" valign="top" style="padding:0;">
-
+<td width="34%" valign="top">
 <img
-  src="./levi.png"
-  alt="Levi Ackerman"
   width="100%"
-  height="350"
+  src="https://images6.alphacoders.com/132/thumb-350-1328055.webp"
+  alt="Levi Ackerman"
 />
-
 </td>
 <td width="66%" valign="top">
 
-# `LUZ?` NO. `ACKERMAN.`
+# LUZ? NO. ACKERMAN.
 
 ### COMPUTER ENGINEERING STUDENT
 
@@ -40,8 +36,6 @@
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=527A51&height=3&section=header" />
-
 ## <img src="https://img.shields.io/badge/01-ORIGIN-F07825?style=flat-square" /> &nbsp; BEHIND THE SYSTEM
 
 <img align="right" width="150" src="https://placehold.co/300x400/101510/A0B69A?text=SCOUT%0AREGIMENT&font=monospace" />
@@ -50,11 +44,11 @@ I'm a Computer Engineering student building my foundations in programming, compu
 
 My goal is to understand how systems work, identify vulnerabilities ethically, and develop more secure solutions.
 
-* `01` — Computer Engineering
-* `02` — Cybersecurity fundamentals
-* `03` — Linux & networking
-* `04` — Programming & automation
-* `05` — Ethical hacking & security labs
+* 01 — Computer Engineering
+* 02 — Cybersecurity fundamentals
+* 03 — Linux & networking
+* 04 — Programming & automation
+* 05 — Ethical hacking & security labs
 
 <br clear="right"/>
 
@@ -146,27 +140,27 @@ Documentation of concepts, labs, and lessons learned.
 </div>
 
 ## <img src="https://img.shields.io/badge/06-CONNECTION-F07825?style=flat-square" /> &nbsp; ESTABLISH CONNECTION
-
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GITHUB-090B09?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-090B09?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=172B20&height=3&section=footer" />
 
-<br/>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=172B20&height=3&section=footer" />
 
-<sub>⚔️ DEVELOPED BY <strong>CARLOS MOURA</strong></sub>
+  <br/>
 
-<br/>
+  <sub>⚔️ DEVELOPED BY <strong>CARLOS MOURA</strong></sub>
 
-<img src="https://img.shields.io/badge/ACKERMAN%20DIVISION-CYBERSECURITY-090B09?style=flat-square&labelColor=172B20&color=527A51" alt="Ackerman Division" />
+  <br/>
 
-<br/><br/>
+  <img src="https://img.shields.io/badge/ACKERMAN%20DIVISION-CYBERSECURITY-090B09?style=flat-square&labelColor=172B20&color=527A51" />
 
-<sub>DISCIPLINE • PRECISION • SECURITY</sub>
+  <br/><br/>
 
+  <sub>DISCIPLINE • PRECISION • SECURITY</sub>
 </div>
