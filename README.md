@@ -11,7 +11,7 @@
 <td width="34%" valign="top">
 <img
   width="100%"
-  src="[https://images6.alphacoders.com/132/thumb-350-1328055.webp](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEnDD1aOj1etkYYekLOiSsTL06ZeWnbEDy9Wmcy8Z-A&s=10)"
+  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEnDD1aOj1etkYYekLOiSsTL06ZeWnbEDy9Wmcy8Z-A&s=10)"
   alt="Levi Ackerman"
 />
 </td>
