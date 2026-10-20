@@ -140,16 +140,22 @@ Documentation of concepts, labs, and lessons learned.
 
 ## <img src="https://img.shields.io/badge/06-CONNECTION-F07825?style=flat-square" /> &nbsp; ESTABLISH CONNECTION
 
+
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=172B20&height=3&section=footer" />
 
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GITHUB-090B09?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  <br/>
 
-<br/><br/>
+  <sub>⚔️ DEVELOPED BY <strong>CARLOS MOURA</strong></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=172B20&height=60&section=footer&text=DISCIPLINE%20%2F%2F%20PRECISION%20%2F%2F%20SECURITY&fontSize=15&fontColor=F07825" />
+  <br/>
 
-<sub>ACKERMAN SECURITY DIVISION // EST. 2026</sub>
+  <img src="https://img.shields.io/badge/ACKERMAN%20DIVISION-CYBERSECURITY-090B09?style=flat-square&labelColor=172B20&color=527A51" />
 
+  <br/><br/>
+
+  <sub>DISCIPLINE • PRECISION • SECURITY</sub>
 </div>
+
+
+
