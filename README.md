@@ -139,6 +139,13 @@ Documentation of concepts, labs, and lessons learned.
 </div>
 
 ## <img src="https://img.shields.io/badge/06-CONNECTION-F07825?style=flat-square" /> &nbsp; ESTABLISH CONNECTION
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GITHUB-090B09?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
 
 
 <div align="center">
