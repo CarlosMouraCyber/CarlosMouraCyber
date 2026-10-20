@@ -11,7 +11,7 @@
 <td width="34%" valign="top">
 <img
   width="100%"
-  src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEnDD1aOj1etkYYekLOiSsTL06ZeWnbEDy9Wmcy8Z-A&s=10)](https://pin.it/6RMBNNf2E)"
+  src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMEnDD1aOj1etkYYekLOiSsTL06ZeWnbEDy9Wmcy8Z-A&s=10"
   alt="Levi Ackerman"
 />
 </td>
