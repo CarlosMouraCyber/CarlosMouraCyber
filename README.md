@@ -9,13 +9,13 @@
 
 <table>
 <tr>
-<td width="34%" valign="top" align="center">
-<img
-  src="https://images6.alphacoders.com/132/thumb-350-1328055.webp"
-  alt="Levi Ackerman"
-  width="100%"
-  height="350"
-/>
+<td width="34%" valign="top" style="padding:0;">
+  <img
+    src="./levi.png"
+    alt="Levi Ackerman"
+    width="100%"
+    style="display:block;"
+  />
 </td>
 <td width="66%" valign="top">
 
