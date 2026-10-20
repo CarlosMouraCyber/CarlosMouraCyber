@@ -11,7 +11,7 @@
 <tr>
 <td width="34%" valign="top">
 
-<img width="100%" src="https://placehold.co/400x500/090B09/527A51?text=LEVI%0AACKERMAN&font=monospace" alt="Levi Ackerman placeholder" />
+<img width="100%" src="[https://placehold.co/400x500/090B09/527A51?text=LEVI%0AACKERMAN&font=monospace](https://images6.alphacoders.com/132/thumb-350-1328055.webp)" alt="Levi Ackerman placeholder" />
 
 </td>
 <td width="66%" valign="top">
