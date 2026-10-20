@@ -38,7 +38,7 @@
 
 ## <img src="https://img.shields.io/badge/01-ORIGIN-F07825?style=flat-square" /> &nbsp; BEHIND THE SYSTEM
 
-<img align="right" width="150" src="https://pin.it/12E6MNUOw" />
+<img align="right" width="150" src="scout.png" />
 
 I'm a Computer Engineering student building my foundations in programming, computer systems, networking, and cybersecurity.
 
