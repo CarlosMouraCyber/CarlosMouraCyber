@@ -9,12 +9,15 @@
 
 <table>
 <tr>
-<td width="34%" valign="top">
+<td width="34%" valign="top" style="padding:0;">
+
 <img
-  width="100%"
   src="https://images6.alphacoders.com/132/thumb-350-1328055.webp"
   alt="Levi Ackerman"
+  width="100%"
+  style="display:block;width:100%;height:100%;object-fit:cover;"
 />
+
 </td>
 <td width="66%" valign="top">
 
@@ -36,6 +39,8 @@
 </td>
 </tr>
 </table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=527A51&height=3&section=header" />
 
 ## <img src="https://img.shields.io/badge/01-ORIGIN-F07825?style=flat-square" /> &nbsp; BEHIND THE SYSTEM
 
@@ -141,30 +146,27 @@ Documentation of concepts, labs, and lessons learned.
 </div>
 
 ## <img src="https://img.shields.io/badge/06-CONNECTION-F07825?style=flat-square" /> &nbsp; ESTABLISH CONNECTION
+
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GITHUB-090B09?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GITHUB-090B09?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 <br/><br/>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=172B20&height=3&section=footer" />
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=172B20&height=3&section=footer" />
+<br/>
 
-  <br/>
+<sub>⚔️ DEVELOPED BY <strong>CARLOS MOURA</strong></sub>
 
-  <sub>⚔️ DEVELOPED BY <strong>CARLOS MOURA</strong></sub>
+<br/>
 
-  <br/>
+<img src="https://img.shields.io/badge/ACKERMAN%20DIVISION-CYBERSECURITY-090B09?style=flat-square&labelColor=172B20&color=527A51" alt="Ackerman Division" />
 
-  <img src="https://img.shields.io/badge/ACKERMAN%20DIVISION-CYBERSECURITY-090B09?style=flat-square&labelColor=172B20&color=527A51" />
+<br/><br/>
 
-  <br/><br/>
+<sub>DISCIPLINE • PRECISION • SECURITY</sub>
 
-  <sub>DISCIPLINE • PRECISION • SECURITY</sub>
 </div>
-
-
-
