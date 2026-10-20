@@ -11,7 +11,7 @@
 <tr>
 <td width="34%" valign="top">
 
-<img width="100%" src="[https://placehold.co/400x500/090B09/527A51?text=LEVI%0AACKERMAN&font=monospace](https://images6.alphacoders.com/132/thumb-350-1328055.webp)" alt="Levi Ackerman placeholder" />
+<img width="100%" src="https://placehold.co/400x500/090B09/527A51?text=LEVI%0AACKERMAN&font=monospace" alt="Levi Ackerman placeholder" />
 
 </td>
 <td width="66%" valign="top">
@@ -43,11 +43,11 @@ I'm a Computer Engineering student building my foundations in programming, compu
 
 My goal is to understand how systems work, identify vulnerabilities ethically, and develop more secure solutions.
 
-- `01` — Computer Engineering
-- `02` — Cybersecurity fundamentals
-- `03` — Linux & networking
-- `04` — Programming & automation
-- `05` — Ethical hacking & security labs
+* `01` — Computer Engineering
+* `02` — Cybersecurity fundamentals
+* `03` — Linux & networking
+* `04` — Programming & automation
+* `05` — Ethical hacking & security labs
 
 <br clear="right"/>
 
@@ -115,14 +115,14 @@ Documentation of concepts, labs, and lessons learned.
 
 ## <img src="https://img.shields.io/badge/04-MISSION-F07825?style=flat-square" /> &nbsp; CURRENT OBJECTIVES
 
-- [ ] Master programming fundamentals
-- [ ] Build confidence with Linux
-- [ ] Study TCP/IP and networking
-- [ ] Learn Git and version control
-- [ ] Practice web security in authorized labs
-- [ ] Complete beginner CTF challenges
-- [ ] Publish my first security projects
-- [ ] Document my learning journey
+* [ ] Master programming fundamentals
+* [ ] Build confidence with Linux
+* [ ] Study TCP/IP and networking
+* [ ] Learn Git and version control
+* [ ] Practice web security in authorized labs
+* [ ] Complete beginner CTF challenges
+* [ ] Publish my first security projects
+* [ ] Document my learning journey
 
 ## <img src="https://img.shields.io/badge/05-STATISTICS-F07825?style=flat-square" /> &nbsp; COMBAT RECORD
 
