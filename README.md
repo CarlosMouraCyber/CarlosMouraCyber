@@ -38,7 +38,7 @@
 
 ## <img src="https://img.shields.io/badge/01-ORIGIN-F07825?style=flat-square" /> &nbsp; BEHIND THE SYSTEM
 
-<img align="right" width="150" src="scout.png" />
+<img align="right" width="150" src="https://wallpapers-clan.com/wp-content/uploads/2025/09/attack-on-titan-scout-regiment-logo-background-scaled.jpg" />
 
 I'm a Computer Engineering student building my foundations in programming, computer systems, networking, and cybersecurity.
 
