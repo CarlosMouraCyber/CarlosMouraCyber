@@ -9,11 +9,12 @@
 
 <table>
 <tr>
-<td width="34%" valign="top">
 <img
   width="100%"
+  height="500"
   src="https://images6.alphacoders.com/132/thumb-350-1328055.webp"
   alt="Levi Ackerman"
+  style="object-fit:contain; background-color:#090B09; display:block;"
 />
 <td width="66%" valign="top">
 
