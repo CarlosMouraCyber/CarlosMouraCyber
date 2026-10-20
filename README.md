@@ -10,9 +10,13 @@
 <tr>
 <td width="34%" valign="top">
 <img
+  
+<img
   width="100%"
-  src="https://images6.alphacoders.com/132/thumb-350-1328055.webp"
+  src="./levi.png"
   alt="Levi Ackerman"
+/>
+
 />
 </td>
 <td width="66%" valign="top">
