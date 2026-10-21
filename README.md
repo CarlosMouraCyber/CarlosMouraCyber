@@ -23,7 +23,7 @@
 
 > “The only thing we're allowed to do is believe that we won't regret the choice we made.”
 
-🎓 Engenharia da Computação  
+🎓 Computer Engineering  
 🛡️ Cybersecurity enthusiast  
 💻 Programming & Systems  
 🐧 Linux • Networking • Ethical Hacking
